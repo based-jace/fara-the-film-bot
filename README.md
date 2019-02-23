@@ -1,4 +1,4 @@
-#fara-the-film-bot
+# fara-the-film-bot
 
 Uses the Twitter, Taste Dive, and Google Sheet APIs synchronously with IMDB and Google Search
 to run a Twitter bot that recommends films based on if their previous tweet was liked/re-tweeted.
